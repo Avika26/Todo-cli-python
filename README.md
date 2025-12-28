@@ -10,6 +10,14 @@
 
 ---
 
+## 🖼 Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
+
+---
+
 ## ✨ Features
 - ✅ Add, remove, and complete tasks  
 - 🎯 Set priorities: **High (🔴), Medium (🟡), Low (🟢)**  
