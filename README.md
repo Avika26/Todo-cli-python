@@ -5,8 +5,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Avika26/Todo-cli-python)
 ![Repo Size](https://img.shields.io/github/repo-size/Avika26/Todo-cli-python)
 
-# 📝 Todo CLI Python Project
-
 > A **fun and colorful command-line Todo List** built in Python!  
 > Track your tasks, set priorities, mark them done, and never forget anything again! ✅
 
