@@ -1,50 +1,32 @@
-\# Todo CLI Python Project
+# 📝 Todo CLI Python Project
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/Avika26/Todo-cli-python)
+![Repo Size](https://img.shields.io/github/repo-size/Avika26/Todo-cli-python)
 
+# 📝 Todo CLI Python Project
 
-A \*\*simple command-line Todo List application\*\* built in Python.  
-
-Keep track of your tasks, set priorities, mark them completed, and save them for later! ✅
-
-
-
----
-
-
-
-\## \*\*Features\*\*
-
-\- Add, remove, and mark tasks as completed
-
-\- Set priorities: \*\*High\*\*, \*\*Medium\*\*, or \*\*Low\*\*
-
-\- Colored ticks (✓) for completed tasks and crosses (✗) for pending
-
-\- Tasks are sorted: pending tasks first, completed tasks later
-
-\- Tasks are saved in \*\*JSON\*\* for persistence
-
-
+> A **fun and colorful command-line Todo List** built in Python!  
+> Track your tasks, set priorities, mark them done, and never forget anything again! ✅
 
 ---
 
+## ✨ Features
+- ✅ Add, remove, and complete tasks  
+- 🎯 Set priorities: **High (🔴), Medium (🟡), Low (🟢)**  
+- 📌 Colored output for better readability  
+- 💾 Saves tasks in JSON for persistence  
+- 🔀 Pending tasks always appear first, completed tasks later  
 
+---
 
-\## \*\*Installation\*\*
+## ⚡ Installation
 
+1. Make sure you have **Python 3.x** installed:  
+   [Download Python](https://www.python.org/downloads/)
 
-
-1\. Make sure \*\*Python 3.x\*\* is installed:  
-
-&nbsp;  \[Download Python](https://www.python.org/downloads/)
-
-
-
-2\. Install required package \*\*Colorama\*\*:
-
-
+2. Install the required package **Colorama**:
 
 ```bash
-
 pip install colorama
-
