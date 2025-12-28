@@ -1,0 +1,14 @@
+[
+    {
+        "Title": "Revise Python",
+        "Description": "Revise core python and make projects to understand everything perfectly",
+        "Priority": "High",
+        "Completed": true
+    },
+    {
+        "Title": "Revise SQL",
+        "Description": "SQL revision where leetcode qs to be done",
+        "Priority": "Medium",
+        "Completed": false
+    }
+]
